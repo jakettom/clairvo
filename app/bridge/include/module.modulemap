@@ -1,0 +1,4 @@
+module ClairvoBridge {
+    header "vo_bridge.h"
+    export *
+}
